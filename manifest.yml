@@ -1,0 +1,4 @@
+applications:
+  - env:
+      TRUST_CERTS: "api.tacos.sso.identity.team,login.tacos.sso.identity.team,uaa.tacos.sso.identity.team"
+#      LOGGING_LEVEL_ROOT: TRACE
